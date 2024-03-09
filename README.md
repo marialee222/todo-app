@@ -14,6 +14,9 @@ Updates made to enhance user experience and functionality:
 - Enhanced user interface for a more intuitive experience. 
 
 - Added buttons to add or delete tasks.
+![to-do](https://github.com/marialee222/todo-app/assets/150623001/fd962c38-820f-4fed-9f0d-dae4837fa5f3)
+
+  
 
 ## How to Run
 To run the ToDo App on your machine, follow these steps: 
