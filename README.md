@@ -13,7 +13,7 @@ Updates made to enhance user experience and functionality:
 
 -Enhanced user interface for a more intuitive experience. 
 
--Added validation for user input in the form. 
+-Added buttons to add or delete tasks.
 
 ## How to Run
 To run the ToDo App on your machine, follow these steps: 
