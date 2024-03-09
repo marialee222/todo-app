@@ -30,7 +30,9 @@ To run the ToDo App on your machine, follow these steps:
 
 ## Roadmap of Future Improvements
 Future improvements for the ToDo App include:
+
 Mobile responsiveness for on-the-go task management.
+
 Add ability to prioritize and re-order tasks.
 
    
