@@ -3,45 +3,32 @@
 ### Task Tackler
 Simulation link: [Todo App](https://marialee222.github.io/todo-app/)
 
-## Description
-The Real-Time Bus Tracker is a web application that visualizes the movement of a bus along a predefined route with interactive features. The application uses Mapbox GL JS for mapping and provides a real-time tracking experience. 
+## Description 
+This ToDo App allows you to manage and organize your tasks efficiently. Keep track of your to-do list with ease. 
 
 ### Improvements
-Updates made to enhance user experience and functionality:
-- code was separated into functions for readability
-- set the height of the map to be 100% of the viewpoint height
-- button styling
-- cursor pointer
-- button hover animation
-- moved script tags to the end of the <body> section
-- updated button label
-- created a line layer to visually represent the bus route on the map
+Updates made to enhance user experience and functionality: 
+-Improved task rendering for better readability. 
+-Enhanced user interface for a more intuitive experience. 
+-Added validation for user input in the form. 
 
 ## How to Run
-To run the Real-Time Bus Tracker on your machine, follow these steps:
-1. Clone the repo: git clone https://github.com/marialee222/real-time-bus-tracker.git
-2. Open the project directory: cd real-time-bus-tracker
-3. Get a Mapbox Access Token:</br>
-* Visit [Mapbox](https://www.mapbox.com/) and sign up for an account.</br>
-* Create a new access token in your Mapbox account dashboard.</br>
-4. Replace Access Token in mapanimation.js:</br>
-* Open the mapanimation.js file.</br>
-* Replace the placeholder token with your actual Mapbox access token.</br>
-5. Open index.html in your web browser.
-6. Explore the Real-Time Bus Tracker!</br>
-* Click the button ("Click Here MIT to Harvard") to initiate the animation that tracks the bus along the route.
+To run the ToDo App on your machine, follow these steps: 
 
-<img width="1171" alt="map" src="https://github.com/marialee222/real-time-bus-tracker/assets/150623001/520cb71b-c20f-4761-ae63-0188a070eb49">
+	1. Clone the repository to your local machine. 
+	git clone https://github.com/marialee222/todo-app.git 
+
+	2. Navigate to the project directory.
+	cd todo-app 
+
+	3. Open the index.html file in your preferred web browser.
+
+	4. Start managing your tasks!
 
 ## Roadmap of Future Improvements
-Future improvements for the Real-Time Bus Tracker include:
-- When a user touches a stop, the schedule will appear on the bottom.
-- On the schedule, user will find the actual day and the coming days with the next departing time.
-- The schedule will include the stop name, address and time until the next bus.</br>
-	Example:  
-	MIT
-	77 Mass Ave, Cambridge MA</br>
-  	<i>Next bus in 3 min</i>
+Future improvements for the ToDo App include:
+Mobile responsiveness for on-the-go task management.![image](https://github.com/marialee222/todo-app/assets/150623001/f6733e2f-be48-4532-b9d8-fdcf7577d21e)
+
    
 :star: Feel free to contribute ideas or collaborate on these enhancements! :star:
 
