@@ -8,8 +8,11 @@ This ToDo App allows you to manage and organize your tasks efficiently. Keep tra
 
 ### Improvements
 Updates made to enhance user experience and functionality: 
+
 -Improved task rendering for better readability. 
+
 -Enhanced user interface for a more intuitive experience. 
+
 -Added validation for user input in the form. 
 
 ## How to Run
