@@ -9,11 +9,11 @@ This ToDo App allows you to manage and organize your tasks efficiently. Keep tra
 ### Improvements
 Updates made to enhance user experience and functionality: 
 
--Improved task rendering for better readability. 
+- Improved task rendering for better readability. 
 
--Enhanced user interface for a more intuitive experience. 
+- Enhanced user interface for a more intuitive experience. 
 
--Added buttons to add or delete tasks.
+- Added buttons to add or delete tasks.
 
 ## How to Run
 To run the ToDo App on your machine, follow these steps: 
@@ -31,9 +31,9 @@ To run the ToDo App on your machine, follow these steps:
 ## Roadmap of Future Improvements
 Future improvements for the ToDo App include:
 
-Mobile responsiveness for on-the-go task management.
+- Mobile responsiveness for on-the-go task management.
 
-Add ability to prioritize and re-order tasks.
+- Add ability to prioritize and re-order tasks.
 
    
 :star: Feel free to contribute ideas or collaborate on these enhancements! :star:
