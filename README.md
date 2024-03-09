@@ -1,7 +1,7 @@
 #### MIT xPRO Fullstack Development
 ## To-Do App
 ### Task Tackler
-Simulation link: [Todo App]([https://marialee222.github.io/todo-app/)]
+Simulation link: [Todo App](https://marialee222.github.io/todo-app/)
 
 ## Description 
 This ToDo App allows you to manage and organize your tasks efficiently. Keep track of your to-do list with ease. 
