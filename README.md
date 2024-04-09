@@ -1,7 +1,7 @@
 #### MIT xPRO Fullstack Development
 ## To-Do App
 ### Task Tackler
-Simulation link: [todo-app](https://marialee222.github.io/todo-app/)
+
 
 ## Description 
 The ToDo App allows users to add new to-do items using a form and remove existing items by clicking on a remove button associated with each item. The application state is managed by React's state management hooks (useState), and the components are styled using CSS.
