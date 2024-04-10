@@ -6,7 +6,7 @@
 ## Description 
 The ToDo App allows users to add new to-do items using a form and remove existing items by clicking on a remove button associated with each item. The application state is managed by React's state management hooks (useState), and the components are styled using CSS.
 
-![to-do](https://github.com/marialee222/todo-app/assets/todo1.png
+![to-do](https://github.com/marialee222/todo-app/todo1.png
 
 
 
